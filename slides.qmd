@@ -1,0 +1,66 @@
+---
+title: "Make Reproducibility Easy"
+author: Mike Mahoney, SUNY-ESF
+format: revealjs
+editor: visual
+---
+
+# A Grand Theory of Analysis Workflows
+
+---
+
+![](files.png){.quarto-figure-center}
+
+---
+
+![](shell.png){.quarto-figure-center}
+
+---
+
+![](notebook.png){.quarto-figure-center}
+
+---
+
+![](make.png){.quarto-figure-center}
+
+---
+
+![](targets.png){.quarto-figure-center}
+
+---
+
+![](dag.png){.quarto-figure-center}
+
+---
+
+![](book.png){.quarto-figure-center}
+
+[https://books.ropensci.org/targets](https://books.ropensci.org/targets)
+
+---
+
+![](para.png){.quarto-figure-center}
+
+[https://books.ropensci.org/targets](https://books.ropensci.org/targets)
+
+---
+
+![](dist.png){.quarto-figure-center}
+
+[https://books.ropensci.org/targets](https://books.ropensci.org/targets)
+
+## Thank you!
+
+<br />
+
+#### Find me online:
+
+{{< fa globe >}} [mm218.dev](https://mm218.dev) 
+
+{{< fa brands github >}} @mikemahoney218 
+
+<i class="fab fa-mastodon"></i> [@MikeMahoney218@fosstodon.org](https://fosstodon.org/@MikeMahoney218)
+
+<br />
+
+Slides available at [mm218.dev/esip2023](https://mm218.dev/esip2023)
